@@ -8,7 +8,7 @@ At the beginning of the game, each player places his own set of ships on the fie
 
 The game will control the correct placement of ships, and will also keep score for you.
 
-Also, this application can self-update using Cloud Storage (Yandex Disk) as a version storage. The application has a [public link](https://disk.yandex.ru/d/Mul-aXc7Qd_c8Q) to a folder on Yandex. disk, and when the application is launched, it checks the current version with the latest one on the storage and, if necessary, downloads and installs a new version.
+Also, this application can self-update using Cloud Storage (Yandex Disk) as a version storage. The application has a [public link](https://disk.yandex.ru/d/Mul-aXc7Qd_c8Q) to a folder on Yandex disk, and when the application is launched, it checks the current version with the latest one on the storage and, if necessary, downloads and installs a new version.
 
 
 ![AAA](https://user-images.githubusercontent.com/103335340/219906038-df686a98-b71d-4b40-8efe-2fec2a2aa714.png)
@@ -25,4 +25,4 @@ Scroll down and download two exe files:
 
 ![step_2](https://user-images.githubusercontent.com/103335340/219906547-4c6c58bf-e141-4164-ad44-d196c7c035b2.png)
 
-When the [first](https://github.com/Gray-Advantage/Sea_battle/releases/download/sea_battle/Sea_battle.exe) and [second](https://github.com/Gray-Advantage/Sea_battle/releases/download/sea_battle/updater.exe) files are downloaded and will be in the same directory, you will just have to run "sea_buttle.exe ' and enjoy the game.
+When the [first](https://github.com/Gray-Advantage/Sea_battle/releases/download/sea_battle/Sea_battle.exe) and [second](https://github.com/Gray-Advantage/Sea_battle/releases/download/sea_battle/updater.exe) files are downloaded and will be in the same directory, you will just have to run "sea_buttle.exe" and enjoy the game.
